@@ -865,9 +865,9 @@
             "new_password": "Yeni bir şifre gir."
         },
         "reset": "Şifreni sıfırla",
-        "set_password": "Yeni şifre belirleyin",
+        "set_password": "Yeni bir şifre belirleyin",
         "remembered": "Giriş sayfasına geri dönün",
-        "new": "Revolt'a yeni misiniz?",
+        "new": "Revolt'ta yeni misiniz?",
         "create": "Yeni bir hesap oluştur",
         "resend": "Tekrar doğrulama gönder",
         "cancel": "İsteği iptal et",
